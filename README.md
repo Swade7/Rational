@@ -1,2 +1,6 @@
-# Rational
-This project allows the creation of rational numbers and includes functions and overrides for manipulation and output. Created in the spring of 2022 for Comp 3450 (Object-Oriented Programming) at Harding University.
+Samuel Wade
+
+Rational
+Allows the user to create and manipulate rational numbers
+
+Weaknesses: I was unable to get the IoOps working correctly as well as the postfix operators.
